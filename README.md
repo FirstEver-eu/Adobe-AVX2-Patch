@@ -70,7 +70,14 @@ If you find this tool helpful, consider supporting the developer:
 
 ## License
 
-This project is open-source and available under the MIT License. Feel free to modify and distribute it as needed.
+This project is open-source and available under the **GNU General Public License v3.0 (GPL-3.0)**. 
+
+### GPL-3.0 License Summary:
+- You are free to use, modify, and distribute this software.
+- If you distribute modified versions, you must also distribute the source code under the same GPL-3.0 license.
+- This software is provided **without any warranty**.
+
+For the full license text, see the [LICENSE](LICENSE) file in this repository.
 
 ## Acknowledgments
 
